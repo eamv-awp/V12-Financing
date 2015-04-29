@@ -1,2 +1,2 @@
 # V12-Financing
-Because V8 is annoyingly slow.
+Because you don't want to V8...
